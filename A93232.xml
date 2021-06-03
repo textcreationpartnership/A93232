@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Salamanca doctors comment upon the proclamation for apprehending Colonel John Rumsey, Richard Rumbold, Richard Nelthorp, Wade, Goodenough, Walcot, Thompson, Burton, Hone, for conspiring to kill the King</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93232</idno><idno type="EEBO-CITATION">42475158</idno>
+  <idno type="VID">151314</idno>
+  <idno type="EEBO-PROQUEST">2248562233</idno>
+  
+            <idno type="STC">Wing S367</idno>
+            <idno type="STC">ESTC R43733</idno>
+            <idno type="OCLC">42475158</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2254:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Salamanca doctors comment upon the proclamation for apprehending Colonel John Rumsey, Richard Rumbold, Richard Nelthorp, Wade, Goodenough, Walcot, Thompson, Burton, Hone, for conspiring to kill the King</title>
+               </titleStmt>
+               <extent>1 sheet ( [2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the Heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Political satire on Titus Oates"--NUC pre-1956 imprints.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oates, Titus, 1649-1705 --  Humor.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="commentary">
+            <pb facs="tcp:151314:1"/>
+            <head>THE Salamanca Doctors COMMENT Upon the PROCLAMATION, For Apprehending Colonel <hi>John Rumsey, Richard Rumbold, Richard Nelthorp, Wade, Goodenough, W<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lcot, Thompson, Bur<g ref="char:EOLhyphen"/>ton, Hone,</hi> for Conspiring to kill the KING.</head>
+            <p>HEre's Plot upon Plot, bandy'd back and again, <hi>Settle</hi> upon <hi>Elkana,</hi> and <hi>Elkanah</hi> upon <hi>Settle,</hi> now in the Devils name who set me to work, and has outdone me at my own weapon; what shall I do? or where shall I hide my self? The works of Darkness are brought to Light, and Men see through us and our Plots as through a Riddle.</p>
+            <p>Verily Beloved, the Loyalty we pretended, the Light which we boasted of, was but an <hi>Ignis Fatuus, a Will <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>' th' Wisp,</hi> that led us out of the Kings high Road to commit Treason on the Prerogative, and hath left us at last like <hi>Patience</hi> and <hi>Pilkington</hi> in the Pownd.</p>
+            <p>A Proclamation for Apprehending True and Loyal Protestants in a True and Loyal Protestant Cause, and for killing the King over again, when it was so well laid upon the Papists, where art thou <hi>Patience?</hi> Sincerely Beloved, <hi>in verbo sacerdot<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> for all our Boasting in the Lord, the Lord is not with us nor our Cause, having left us to our selves as to the Inward Man, and our outward Man to the Devil and the Hangman as they can agree.</p>
+            <p>Hath it cost so much pains and Blood to lay it on the Papists, and is it at last turn'd upon the Saints, and by themselves too, laid at our own Doors!</p>
+            <p>Surely the Lord hath forsaken us, and Fortune that us'd to be on our side, like the Protestant Poet, has turn'd Cat in Pan, for never was such a Turn for the Saints since the <hi>Triumvirat</hi> took their Turn at <hi>Tyburn.</hi>
+            </p>
+            <p>Hang me for a Jesuit, if I did not suspect this ever since the Dog <hi>Towser</hi> and the <hi>Salamanca</hi> Bull were at difference about the first Conjunction of the Plot in <hi>Capricorn.</hi> Well, my Heart mis<g ref="char:EOLhyphen"/>gave me ever since the Protestant <hi>Joyner</hi> miscarried at <hi>Oxford; Gemini!</hi> how our Cause has gone down the Wind ever since, and since the Protectant Cooper with the politick Cask, was stav'd in <hi>Holland,</hi> the Tories have been Cock a hoop.</p>
+            <pb facs="tcp:151314:2"/>
+            <p>Farewel those good Times, I never open'd my wide Jaws but I belch'd out a Parliament, I never clos'd my Flaming Eyes but I dream'd of a Parliment, I never speak but I rav'd of a Parlia<g ref="char:EOLhyphen"/>ment. But now instead of Parliaments, I have got Proclama<g ref="char:EOLhyphen"/>tions in my Head, my Noddle stufft with Proclamations, my Ears clog'd with Proclamations, and the Town fill'd with Pro<g ref="char:EOLhyphen"/>clamations. They Roar like Thunder and Fly about like Light<g ref="char:EOLhyphen"/>ning, and as if Heaven had Design'd it for the last Trump of the Saints, the Voice of the Roaring Lyon is heard through all the Corners of the Land.</p>
+            <p>Oh! Men and Brethren what shall we do to shun the Judge<g ref="char:EOLhyphen"/>ment, for we are guilty as well as they. Shall we hide our selves like <hi>Domitian</hi> in a Vault, or like <hi>Patience</hi> in a Cockloft? shall we fly with <hi>Goodenough</hi> from Justice, or submit with <hi>West</hi> even to the betraying of the holy Cause? or shall we for the hope of 100 <hi>l.</hi> Betray one another? I think that were best. I am Resolv'd—But who'l believe me? being so great a Villain in the first that I cou'd not be trusted in this Second Plot. Oh! Brethren! what shall we Resolve, and where are your Resolves now?</p>
+            <p>Will your Resolving it a Popish Plot save you from a Pres<g ref="char:EOLhyphen"/>byterian Conspiracy.</p>
+            <p>Will your Resolving <hi>Rumsey</hi> to be a True and Loyal Prote<g ref="char:EOLhyphen"/>stant, keep him from the reward of a dangerous and Malicious Traitor.</p>
+            <p>Will your Resolving <hi>Rumbold</hi> to be well affected to the Prote<g ref="char:EOLhyphen"/>stant Cause, save him from Dying an Enemy to the King and Government?</p>
+            <p>Will your Resolving <hi>Nelthorp, Goodenough</hi> and the rest to be Innocent, save them from the penalty of the proclamation?</p>
+            <p>Can you Resolve <hi>Shaftsburys</hi> Head upon <hi>G—s</hi> shoulders to Revert the plot upon the Papists, and bring himself and the rest out of the Pownd.</p>
+            <p>Can you Resolve to turn the Court of Justice and the Thames to run back to the Fountain Head.</p>
+            <p>Can you Resolve to take off the Kings Head and not venture your Necks in the Attempt?</p>
+            <p>A Pox on your Resolves and <hi>Green-Goose</hi> Clubs. Why did you not Resolve me a Cheating Lying, Perjur'd Villain, when you Resolved me a Learned Doctor and Saviour of the Nation? Why did you not Resolve to hang me rather than see me Starve in my Old Station of Want and Beggery? What shall I Re<g ref="char:EOLhyphen"/>solve? I cannot go, nor dare I Stay, I have onely, with my Brother <hi>Judas,</hi> one Resolve left, that is, to Hang my self.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed by the Heir of <hi>Andrew Anderson,</hi> Printer to His most Sacred Majesty, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
